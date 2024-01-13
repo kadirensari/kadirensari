@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadirensari
 - 👀 I’m interested in different application areas ranging from fullstack development, embedded programming to AI applications.
-- 🌱 I’m currently learning application development with Java, PostgreSQL/ MSSQL, and React.
+- 🌱 I’m currently learning databases (PostgreSQL, MSSQL) and application development with Java.
 - 💞️ I’m looking for a job opportunity where I can kick start my career in programming.
 - 📫 How to reach me: https://www.linkedin.com/in/kadir-ensari/
 
